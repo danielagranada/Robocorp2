@@ -1,0 +1,9 @@
+{
+    "Form": {
+        "screenshot": ".images\\form-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": "form"
+    }
+}
